@@ -111,9 +111,6 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-
-# settings.py
-# OPENAI_API_KEY = "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"
 from dotenv import load_dotenv
 import os
 
