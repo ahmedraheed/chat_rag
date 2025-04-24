@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+.env
+*.env
+*.log
+
+# Virtual Environments
+venv/
+env/
+.rag_chatbot/
+.rag_chat/
+
+# VS Code
+.vscode/
+
+# React / Node
+node_modules/
+build/
+dist/
+*.lock
+
+# OS
+.DS_Store
+Thumbs.db
